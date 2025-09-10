@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/23MH1A05M1/problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/23MH1A05M1/problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
