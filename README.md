@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/23MH1A05M1/problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/23MH1A05M1/problems/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23MH1A05M1/problems/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/23MH1A05M1/problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/0349-intersection-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/23MH1A05M1/problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -49,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/23MH1A05M1/problems/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/23MH1A05M1/problems/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/23MH1A05M1/problems/tree/master/0268-missing-number) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/23MH1A05M1/problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/0349-intersection-of-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M1/problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/2887-sort-vowels-in-a-string) |
@@ -67,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/23MH1A05M1/problems/tree/master/0268-missing-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Greedy
 |  |
@@ -83,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/23MH1A05M1/problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/0349-intersection-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M1/problems/tree/master/2210-find-target-indices-after-sorting-array) |
