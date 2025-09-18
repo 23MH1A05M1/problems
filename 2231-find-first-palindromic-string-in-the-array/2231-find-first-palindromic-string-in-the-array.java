@@ -22,12 +22,12 @@ class Solution {
                   break;
                 }
            }
-           if(count==word.length()-1)
-           {
+        //    if(count==word.length()-1)
+        //    {
            
-            found=true;
+        //     found=true;
                
-           }
+        //    }
            if(found){
            
               s=word;
