@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/23MH1A05M1/problems/tree/master/1646-kth-missing-positive-number) |
 | [1848-sum-of-unique-elements](https://github.com/23MH1A05M1/problems/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/23MH1A05M1/problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2048-build-array-from-permutation](https://github.com/23MH1A05M1/problems/tree/master/2048-build-array-from-permutation) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M1/problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/23MH1A05M1/problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23MH1A05M1/problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/23MH1A05M1/problems/tree/master/0258-add-digits) |
+| [2048-build-array-from-permutation](https://github.com/23MH1A05M1/problems/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23MH1A05M1/problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
