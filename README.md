@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/23MH1A05M1/problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/23MH1A05M1/problems/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23MH1A05M1/problems/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/23MH1A05M1/problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/23MH1A05M1/problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/23MH1A05M1/problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/23MH1A05M1/problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/23MH1A05M1/problems/tree/master/0169-majority-element) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/23MH1A05M1/problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/23MH1A05M1/problems/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/23MH1A05M1/problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/23MH1A05M1/problems/tree/master/1018-largest-perimeter-triangle) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/23MH1A05M1/problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/23MH1A05M1/problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Simulation
 |  |
