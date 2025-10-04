@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M1/problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M1/problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/23MH1A05M1/problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4008-restore-finishing-order](https://github.com/23MH1A05M1/problems/tree/master/4008-restore-finishing-order) |
 ## String
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/23MH1A05M1/problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M1/problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/23MH1A05M1/problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4008-restore-finishing-order](https://github.com/23MH1A05M1/problems/tree/master/4008-restore-finishing-order) |
 ## Prefix Sum
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/23MH1A05M1/problems/tree/master/1018-largest-perimeter-triangle) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M1/problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/2887-sort-vowels-in-a-string) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/23MH1A05M1/problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Brainteaser
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/23MH1A05M1/problems/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/23MH1A05M1/problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/23MH1A05M1/problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/23MH1A05M1/problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Simulation
 |  |
 | ------- |
