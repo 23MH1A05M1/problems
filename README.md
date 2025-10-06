@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/23MH1A05M1/problems/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M1/problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/23MH1A05M1/problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M1/problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/23MH1A05M1/problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4008-restore-finishing-order](https://github.com/23MH1A05M1/problems/tree/master/4008-restore-finishing-order) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/23MH1A05M1/problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M1/problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/23MH1A05M1/problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/23MH1A05M1/problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4008-restore-finishing-order](https://github.com/23MH1A05M1/problems/tree/master/4008-restore-finishing-order) |
 ## Prefix Sum
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/23MH1A05M1/problems/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/23MH1A05M1/problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/23MH1A05M1/problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
