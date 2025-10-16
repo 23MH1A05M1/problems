@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/23MH1A05M1/problems/tree/master/0560-subarray-sum-equals-k) |
 | [1018-largest-perimeter-triangle](https://github.com/23MH1A05M1/problems/tree/master/1018-largest-perimeter-triangle) |
+| [1241-decompress-run-length-encoded-list](https://github.com/23MH1A05M1/problems/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/23MH1A05M1/problems/tree/master/1319-unique-number-of-occurrences) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/1510-find-lucky-integer-in-an-array) |
