@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/23MH1A05M1/problems/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3227-find-missing-and-repeated-values](https://github.com/23MH1A05M1/problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M1/problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/23MH1A05M1/problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M1/problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/23MH1A05M1/problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3227-find-missing-and-repeated-values](https://github.com/23MH1A05M1/problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M1/problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/23MH1A05M1/problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/23MH1A05M1/problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23MH1A05M1/problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/23MH1A05M1/problems/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/23MH1A05M1/problems/tree/master/1642-water-bottles) |
+| [3227-find-missing-and-repeated-values](https://github.com/23MH1A05M1/problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/23MH1A05M1/problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/23MH1A05M1/problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/23MH1A05M1/problems/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
