@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/23MH1A05M1/problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/23MH1A05M1/problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/23MH1A05M1/problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/23MH1A05M1/problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/23MH1A05M1/problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/23MH1A05M1/problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/23MH1A05M1/problems/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/23MH1A05M1/problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/23MH1A05M1/problems/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/23MH1A05M1/problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M1/problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/23MH1A05M1/problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/23MH1A05M1/problems/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/23MH1A05M1/problems/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/23MH1A05M1/problems/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/23MH1A05M1/problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23MH1A05M1/problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3336-water-bottles-ii](https://github.com/23MH1A05M1/problems/tree/master/3336-water-bottles-ii) |
