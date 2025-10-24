@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/23MH1A05M1/problems/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/23MH1A05M1/problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/23MH1A05M1/problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/23MH1A05M1/problems/tree/master/0268-missing-number) |
 | [1018-largest-perimeter-triangle](https://github.com/23MH1A05M1/problems/tree/master/1018-largest-perimeter-triangle) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/23MH1A05M1/problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/23MH1A05M1/problems/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/23MH1A05M1/problems/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/23MH1A05M1/problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/23MH1A05M1/problems/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/23MH1A05M1/problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
