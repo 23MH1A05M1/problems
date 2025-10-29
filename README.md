@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/23MH1A05M1/problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/2887-sort-vowels-in-a-string) |
+| [3312-number-of-changing-keys](https://github.com/23MH1A05M1/problems/tree/master/3312-number-of-changing-keys) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M1/problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
