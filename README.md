@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/23MH1A05M1/problems/tree/master/1319-unique-number-of-occurrences) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/23MH1A05M1/problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1635-number-of-good-pairs](https://github.com/23MH1A05M1/problems/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/23MH1A05M1/problems/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/23MH1A05M1/problems/tree/master/1677-matrix-diagonal-sum) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/23MH1A05M1/problems/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M1/problems/tree/master/1078-remove-outermost-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/23MH1A05M1/problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/23MH1A05M1/problems/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/23MH1A05M1/problems/tree/master/0231-power-of-two) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/23MH1A05M1/problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
