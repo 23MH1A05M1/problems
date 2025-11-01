@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/23MH1A05M1/problems/tree/master/2886-faulty-keyboard) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3312-number-of-changing-keys](https://github.com/23MH1A05M1/problems/tree/master/3312-number-of-changing-keys) |
+| [3447-clear-digits](https://github.com/23MH1A05M1/problems/tree/master/3447-clear-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M1/problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/23MH1A05M1/problems/tree/master/2886-faulty-keyboard) |
 | [3336-water-bottles-ii](https://github.com/23MH1A05M1/problems/tree/master/3336-water-bottles-ii) |
+| [3447-clear-digits](https://github.com/23MH1A05M1/problems/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M1/problems/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/23MH1A05M1/problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/23MH1A05M1/problems/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/23MH1A05M1/problems/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
