@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/23MH1A05M1/problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M1/problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/23MH1A05M1/problems/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3429-special-array-i](https://github.com/23MH1A05M1/problems/tree/master/3429-special-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/23MH1A05M1/problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/23MH1A05M1/problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/23MH1A05M1/problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
