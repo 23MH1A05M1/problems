@@ -7,14 +7,7 @@ class Solution {
                 return ch;
             }
         }
-        // for(Map.Entry<Character,Integer>entry:map.entrySet()){
-        //     if(entry.getValue()==2){
-        //         return entry.getKey();
-        //         // char res=entry.getKey();
-        //         // return res;
-        //         // // break;
-        //     }
-        // }
+        
         return ' ';
     }
 }
