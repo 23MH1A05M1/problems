@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/23MH1A05M1/problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1603-running-sum-of-1d-array](https://github.com/23MH1A05M1/problems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/23MH1A05M1/problems/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/23MH1A05M1/problems/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/23MH1A05M1/problems/tree/master/1651-shuffle-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/23MH1A05M1/problems/tree/master/0560-subarray-sum-equals-k) |
+| [1603-running-sum-of-1d-array](https://github.com/23MH1A05M1/problems/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/23MH1A05M1/problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Math
 |  |
