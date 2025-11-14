@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/23MH1A05M1/problems/tree/master/1677-matrix-diagonal-sum) |
 | [1848-sum-of-unique-elements](https://github.com/23MH1A05M1/problems/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/23MH1A05M1/problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/23MH1A05M1/problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/23MH1A05M1/problems/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/23MH1A05M1/problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/0349-intersection-of-two-arrays) |
 | [1018-largest-perimeter-triangle](https://github.com/23MH1A05M1/problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/23MH1A05M1/problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M1/problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/23MH1A05M1/problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
