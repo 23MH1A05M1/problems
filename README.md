@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M1/problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/23MH1A05M1/problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4008-restore-finishing-order](https://github.com/23MH1A05M1/problems/tree/master/4008-restore-finishing-order) |
+| [4107-find-missing-elements](https://github.com/23MH1A05M1/problems/tree/master/4107-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/23MH1A05M1/problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/23MH1A05M1/problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4008-restore-finishing-order](https://github.com/23MH1A05M1/problems/tree/master/4008-restore-finishing-order) |
+| [4107-find-missing-elements](https://github.com/23MH1A05M1/problems/tree/master/4107-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M1/problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/2887-sort-vowels-in-a-string) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/23MH1A05M1/problems/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4107-find-missing-elements](https://github.com/23MH1A05M1/problems/tree/master/4107-find-missing-elements) |
 ## Brainteaser
 |  |
 | ------- |
