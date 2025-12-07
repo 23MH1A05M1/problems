@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/23MH1A05M1/problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/23MH1A05M1/problems/tree/master/2470-removing-stars-from-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/23MH1A05M1/problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/23MH1A05M1/problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/23MH1A05M1/problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/23MH1A05M1/problems/tree/master/2886-faulty-keyboard) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/23MH1A05M1/problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/23MH1A05M1/problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2470-removing-stars-from-a-string](https://github.com/23MH1A05M1/problems/tree/master/2470-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/23MH1A05M1/problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/23MH1A05M1/problems/tree/master/2886-faulty-keyboard) |
 | [3336-water-bottles-ii](https://github.com/23MH1A05M1/problems/tree/master/3336-water-bottles-ii) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M1/problems/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/23MH1A05M1/problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2470-removing-stars-from-a-string](https://github.com/23MH1A05M1/problems/tree/master/2470-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/23MH1A05M1/problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/23MH1A05M1/problems/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
