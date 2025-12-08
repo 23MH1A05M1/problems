@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/23MH1A05M1/problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/23MH1A05M1/problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/23MH1A05M1/problems/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/23MH1A05M1/problems/tree/master/1925-count-square-sum-triples) |
 | [2507-number-of-common-factors](https://github.com/23MH1A05M1/problems/tree/master/2507-number-of-common-factors) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/23MH1A05M1/problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/23MH1A05M1/problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/23MH1A05M1/problems/tree/master/1534-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/23MH1A05M1/problems/tree/master/1925-count-square-sum-triples) |
 | [2442-number-of-arithmetic-triplets](https://github.com/23MH1A05M1/problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/23MH1A05M1/problems/tree/master/2507-number-of-common-factors) |
 ## Stack
