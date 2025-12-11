@@ -321,4 +321,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
