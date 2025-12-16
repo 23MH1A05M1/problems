@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/23MH1A05M1/problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/23MH1A05M1/problems/tree/master/2470-removing-stars-from-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/23MH1A05M1/problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2678-number-of-senior-citizens](https://github.com/23MH1A05M1/problems/tree/master/2678-number-of-senior-citizens) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/23MH1A05M1/problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/23MH1A05M1/problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/23MH1A05M1/problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23MH1A05M1/problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/23MH1A05M1/problems/tree/master/2634-minimum-common-value) |
+| [2678-number-of-senior-citizens](https://github.com/23MH1A05M1/problems/tree/master/2678-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/23MH1A05M1/problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
