@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/23MH1A05M1/problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/23MH1A05M1/problems/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/23MH1A05M1/problems/tree/master/1635-number-of-good-pairs) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/23MH1A05M1/problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1646-kth-missing-positive-number](https://github.com/23MH1A05M1/problems/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/23MH1A05M1/problems/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/23MH1A05M1/problems/tree/master/1677-matrix-diagonal-sum) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/23MH1A05M1/problems/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/23MH1A05M1/problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/23MH1A05M1/problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/23MH1A05M1/problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M1/problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/23MH1A05M1/problems/tree/master/2274-keep-multiplying-found-values-by-two) |
