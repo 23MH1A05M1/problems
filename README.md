@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M1/problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/23MH1A05M1/problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/23MH1A05M1/problems/tree/master/1051-height-checker) |
 | [1241-decompress-run-length-encoded-list](https://github.com/23MH1A05M1/problems/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/23MH1A05M1/problems/tree/master/1319-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/23MH1A05M1/problems/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/23MH1A05M1/problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/23MH1A05M1/problems/tree/master/1051-height-checker) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/23MH1A05M1/problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/23MH1A05M1/problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M1/problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0876-middle-of-the-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/23MH1A05M1/problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
