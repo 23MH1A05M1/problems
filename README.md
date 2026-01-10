@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/23MH1A05M1/problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/23MH1A05M1/problems/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/23MH1A05M1/problems/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/23MH1A05M1/problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/23MH1A05M1/problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/23MH1A05M1/problems/tree/master/2460-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/23MH1A05M1/problems/tree/master/2634-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/23MH1A05M1/problems/tree/master/3794-reverse-string-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
