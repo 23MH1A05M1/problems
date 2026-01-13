@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/23MH1A05M1/problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/23MH1A05M1/problems/tree/master/2678-number-of-senior-citizens) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/23MH1A05M1/problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2810-faulty-keyboard](https://github.com/23MH1A05M1/problems/tree/master/2810-faulty-keyboard) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/23MH1A05M1/problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/23MH1A05M1/problems/tree/master/2886-faulty-keyboard) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/23MH1A05M1/problems/tree/master/2460-apply-operations-to-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/23MH1A05M1/problems/tree/master/2470-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/23MH1A05M1/problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2810-faulty-keyboard](https://github.com/23MH1A05M1/problems/tree/master/2810-faulty-keyboard) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/23MH1A05M1/problems/tree/master/2886-faulty-keyboard) |
 | [3336-water-bottles-ii](https://github.com/23MH1A05M1/problems/tree/master/3336-water-bottles-ii) |
