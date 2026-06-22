@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/23MH1A05M1/problems/tree/master/0782-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M1/problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M1/problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/23MH1A05M1/problems/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23MH1A05M1/problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/23MH1A05M1/problems/tree/master/1319-unique-number-of-occurrences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/23MH1A05M1/problems/tree/master/0782-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23MH1A05M1/problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M1/problems/tree/master/1078-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/23MH1A05M1/problems/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23MH1A05M1/problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/23MH1A05M1/problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/23MH1A05M1/problems/tree/master/1651-shuffle-string) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/23MH1A05M1/problems/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/23MH1A05M1/problems/tree/master/1189-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/23MH1A05M1/problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/23MH1A05M1/problems/tree/master/1635-number-of-good-pairs) |
