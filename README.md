@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/23MH1A05M1/problems/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/23MH1A05M1/problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/23MH1A05M1/problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/23MH1A05M1/problems/tree/master/0075-sort-colors) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/23MH1A05M1/problems/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/23MH1A05M1/problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/23MH1A05M1/problems/tree/master/0287-find-the-duplicate-number) |
