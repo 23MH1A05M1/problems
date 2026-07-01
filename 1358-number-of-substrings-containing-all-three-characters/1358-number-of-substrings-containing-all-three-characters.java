@@ -22,7 +22,7 @@ class Solution {
             if(a!=-1 && b!=-1 && c!=-1){
                  
             
-            total+=min+1;
+              total+=min+1;
             }
         }
         return total;
