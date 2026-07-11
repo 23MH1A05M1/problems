@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/23MH1A05M1/problems/tree/master/0782-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M1/problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M1/problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/23MH1A05M1/problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1189-maximum-number-of-balloons](https://github.com/23MH1A05M1/problems/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/23MH1A05M1/problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/23MH1A05M1/problems/tree/master/1319-unique-number-of-occurrences) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/23MH1A05M1/problems/tree/master/0169-majority-element) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/23MH1A05M1/problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1189-maximum-number-of-balloons](https://github.com/23MH1A05M1/problems/tree/master/1189-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/23MH1A05M1/problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/23MH1A05M1/problems/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M1/problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M1/problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/23MH1A05M1/problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1018-largest-perimeter-triangle](https://github.com/23MH1A05M1/problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/23MH1A05M1/problems/tree/master/1051-height-checker) |
