@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/23MH1A05M1/problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/23MH1A05M1/problems/tree/master/1200-minimum-absolute-difference) |
 | [1241-decompress-run-length-encoded-list](https://github.com/23MH1A05M1/problems/tree/master/1241-decompress-run-length-encoded-list) |
+| [1260-shift-2d-grid](https://github.com/23MH1A05M1/problems/tree/master/1260-shift-2d-grid) |
 | [1319-unique-number-of-occurrences](https://github.com/23MH1A05M1/problems/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/23MH1A05M1/problems/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/23MH1A05M1/problems/tree/master/0258-add-digits) |
 | [0861-flipping-an-image](https://github.com/23MH1A05M1/problems/tree/master/0861-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/23MH1A05M1/problems/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/23MH1A05M1/problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/23MH1A05M1/problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/23MH1A05M1/problems/tree/master/1806-count-of-matches-in-tournament) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/23MH1A05M1/problems/tree/master/0861-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/23MH1A05M1/problems/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/23MH1A05M1/problems/tree/master/1677-matrix-diagonal-sum) |
