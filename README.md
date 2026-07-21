@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/23MH1A05M1/problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/23MH1A05M1/problems/tree/master/0020-valid-parentheses) |
 | [0434-number-of-segments-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/23MH1A05M1/problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/23MH1A05M1/problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/23MH1A05M1/problems/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/23MH1A05M1/problems/tree/master/0053-maximum-subarray) |
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/23MH1A05M1/problems/tree/master/2185-counting-words-with-a-given-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/23MH1A05M1/problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
