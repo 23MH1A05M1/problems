@@ -9,6 +9,7 @@ class Solution {
         for(Map.Entry<Integer,Integer>entry:mp.entrySet()){
             if(entry.getValue() > majority){
                  res=entry.getKey();
+                 break;
             }
         }
         return res;
