@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/23MH1A05M1/problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/23MH1A05M1/problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/23MH1A05M1/problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/23MH1A05M1/problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/23MH1A05M1/problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/23MH1A05M1/problems/tree/master/0049-group-anagrams) |
 | [0434-number-of-segments-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/23MH1A05M1/problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/23MH1A05M1/problems/tree/master/0782-jewels-and-stones) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/23MH1A05M1/problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/23MH1A05M1/problems/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/23MH1A05M1/problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/23MH1A05M1/problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/23MH1A05M1/problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/23MH1A05M1/problems/tree/master/0075-sort-colors) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/23MH1A05M1/problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/23MH1A05M1/problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/23MH1A05M1/problems/tree/master/0169-majority-element) |
