@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/23MH1A05M1/problems/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/23MH1A05M1/problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/23MH1A05M1/problems/tree/master/0706-design-hashmap) |
 | [0782-jewels-and-stones](https://github.com/23MH1A05M1/problems/tree/master/0782-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M1/problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M1/problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/23MH1A05M1/problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/23MH1A05M1/problems/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/23MH1A05M1/problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/23MH1A05M1/problems/tree/master/0706-design-hashmap) |
 | [0861-flipping-an-image](https://github.com/23MH1A05M1/problems/tree/master/0861-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/23MH1A05M1/problems/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/23MH1A05M1/problems/tree/master/0941-sort-array-by-parity) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/23MH1A05M1/problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/23MH1A05M1/problems/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0876-middle-of-the-linked-list) |
 ## Counting Sort
 |  |
@@ -453,8 +456,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/23MH1A05M1/problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/23MH1A05M1/problems/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/23MH1A05M1/problems/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/23MH1A05M1/problems/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
