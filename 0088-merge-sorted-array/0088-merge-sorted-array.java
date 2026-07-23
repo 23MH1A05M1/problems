@@ -1,5 +1,6 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
+       
          int arr[] = new int[m+n];
          int index=0;
          for(int i=0;i<nums1.length;i++){
