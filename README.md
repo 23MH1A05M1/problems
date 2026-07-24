@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/23MH1A05M1/problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/23MH1A05M1/problems/tree/master/0706-design-hashmap) |
 | [0861-flipping-an-image](https://github.com/23MH1A05M1/problems/tree/master/0861-flipping-an-image) |
+| [0881-boats-to-save-people](https://github.com/23MH1A05M1/problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/23MH1A05M1/problems/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/23MH1A05M1/problems/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/23MH1A05M1/problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/23MH1A05M1/problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/23MH1A05M1/problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/23MH1A05M1/problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/23MH1A05M1/problems/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/23MH1A05M1/problems/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/23MH1A05M1/problems/tree/master/1018-largest-perimeter-triangle) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/23MH1A05M1/problems/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/23MH1A05M1/problems/tree/master/0881-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/23MH1A05M1/problems/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/23MH1A05M1/problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/23MH1A05M1/problems/tree/master/1448-maximum-69-number) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/23MH1A05M1/problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/23MH1A05M1/problems/tree/master/0861-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/23MH1A05M1/problems/tree/master/0881-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/23MH1A05M1/problems/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/23MH1A05M1/problems/tree/master/1768-merge-strings-alternately) |
