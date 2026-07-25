@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/23MH1A05M1/problems/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/23MH1A05M1/problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/23MH1A05M1/problems/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/23MH1A05M1/problems/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/23MH1A05M1/problems/tree/master/0861-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/23MH1A05M1/problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/23MH1A05M1/problems/tree/master/0912-sort-an-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/23MH1A05M1/problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/23MH1A05M1/problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/23MH1A05M1/problems/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/23MH1A05M1/problems/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/23MH1A05M1/problems/tree/master/1732-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/23MH1A05M1/problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
