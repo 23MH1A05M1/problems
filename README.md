@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/23MH1A05M1/problems/tree/master/1200-minimum-absolute-difference) |
 | [1241-decompress-run-length-encoded-list](https://github.com/23MH1A05M1/problems/tree/master/1241-decompress-run-length-encoded-list) |
 | [1260-shift-2d-grid](https://github.com/23MH1A05M1/problems/tree/master/1260-shift-2d-grid) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/23MH1A05M1/problems/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/23MH1A05M1/problems/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
