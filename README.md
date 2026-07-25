@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/23MH1A05M1/problems/tree/master/1732-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/23MH1A05M1/problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/23MH1A05M1/problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/23MH1A05M1/problems/tree/master/2485-find-the-pivot-integer) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/23MH1A05M1/problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/23MH1A05M1/problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Math
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/23MH1A05M1/problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/23MH1A05M1/problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/23MH1A05M1/problems/tree/master/1925-count-square-sum-triples) |
+| [2485-find-the-pivot-integer](https://github.com/23MH1A05M1/problems/tree/master/2485-find-the-pivot-integer) |
 | [2507-number-of-common-factors](https://github.com/23MH1A05M1/problems/tree/master/2507-number-of-common-factors) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/23MH1A05M1/problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/23MH1A05M1/problems/tree/master/3227-find-missing-and-repeated-values) |
