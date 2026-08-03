@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/23MH1A05M1/problems/tree/master/1773-count-items-matching-a-rule) |
 | [1848-sum-of-unique-elements](https://github.com/23MH1A05M1/problems/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/23MH1A05M1/problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1929-concatenation-of-array](https://github.com/23MH1A05M1/problems/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/23MH1A05M1/problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/23MH1A05M1/problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2032-two-out-of-three](https://github.com/23MH1A05M1/problems/tree/master/2032-two-out-of-three) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/23MH1A05M1/problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/23MH1A05M1/problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/23MH1A05M1/problems/tree/master/1806-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/23MH1A05M1/problems/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/23MH1A05M1/problems/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/23MH1A05M1/problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/23MH1A05M1/problems/tree/master/2271-rearrange-array-elements-by-sign) |
