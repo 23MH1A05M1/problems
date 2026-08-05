@@ -9,22 +9,22 @@ class Solution {
            i++;
            j++;    
         }
-         if(word1.length()<word2.length()){
+        //  if(word1.length()<word2.length()){
             while(j<word2.length()){
-            if(i==word1.length()){
+            // if(i==word1.length()){
             res+=word2.charAt(j);
             j++;
-           }
+        //    }
             }
-        }
-        else if(word2.length()<word1.length()){
+        // }
+        // else if(word2.length()<word1.length()){
              while(i<word1.length()){
-            if(j==word2.length()){
+            // if(j==word2.length()){
             res+=word1.charAt(i);
             i++;
            }
-             }
-        }
+        //  }
+        // }
          
         return res;
     }
