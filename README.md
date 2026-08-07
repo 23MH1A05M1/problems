@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23MH1A05M1/problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/23MH1A05M1/problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/23MH1A05M1/problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/23MH1A05M1/problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/23MH1A05M1/problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/23MH1A05M1/problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/23MH1A05M1/problems/tree/master/0238-product-of-array-except-self) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/23MH1A05M1/problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/23MH1A05M1/problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/23MH1A05M1/problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/23MH1A05M1/problems/tree/master/0304-range-sum-query-2d-immutable) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23MH1A05M1/problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/23MH1A05M1/problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/23MH1A05M1/problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/23MH1A05M1/problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/0349-intersection-of-two-arrays) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/23MH1A05M1/problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/23MH1A05M1/problems/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/23MH1A05M1/problems/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/23MH1A05M1/problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
