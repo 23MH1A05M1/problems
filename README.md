@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/23MH1A05M1/problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M1/problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/23MH1A05M1/problems/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/23MH1A05M1/problems/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/23MH1A05M1/problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0705-design-hashset](https://github.com/23MH1A05M1/problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/23MH1A05M1/problems/tree/master/0706-design-hashmap) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/23MH1A05M1/problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M1/problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/23MH1A05M1/problems/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/23MH1A05M1/problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/23MH1A05M1/problems/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/23MH1A05M1/problems/tree/master/0941-sort-array-by-parity) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/23MH1A05M1/problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/23MH1A05M1/problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/0349-intersection-of-two-arrays) |
+| [0658-find-k-closest-elements](https://github.com/23MH1A05M1/problems/tree/master/0658-find-k-closest-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/23MH1A05M1/problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/23MH1A05M1/problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/23MH1A05M1/problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0658-find-k-closest-elements](https://github.com/23MH1A05M1/problems/tree/master/0658-find-k-closest-elements) |
 | [0861-flipping-an-image](https://github.com/23MH1A05M1/problems/tree/master/0861-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/23MH1A05M1/problems/tree/master/0881-boats-to-save-people) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/23MH1A05M1/problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/23MH1A05M1/problems/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/23MH1A05M1/problems/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/23MH1A05M1/problems/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/23MH1A05M1/problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/23MH1A05M1/problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Graph Theory
@@ -526,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/23MH1A05M1/problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/23MH1A05M1/problems/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/23MH1A05M1/problems/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/23MH1A05M1/problems/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
