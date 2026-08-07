@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/23MH1A05M1/problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/23MH1A05M1/problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/23MH1A05M1/problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/23MH1A05M1/problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/23MH1A05M1/problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/23MH1A05M1/problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/23MH1A05M1/problems/tree/master/0287-find-the-duplicate-number) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/23MH1A05M1/problems/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/23MH1A05M1/problems/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/23MH1A05M1/problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/23MH1A05M1/problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/23MH1A05M1/problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/23MH1A05M1/problems/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/23MH1A05M1/problems/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -557,4 +560,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/23MH1A05M1/problems/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/23MH1A05M1/problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/23MH1A05M1/problems/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/23MH1A05M1/problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
