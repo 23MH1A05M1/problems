@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/23MH1A05M1/problems/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/23MH1A05M1/problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/23MH1A05M1/problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/23MH1A05M1/problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/23MH1A05M1/problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/23MH1A05M1/problems/tree/master/0066-plus-one) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/23MH1A05M1/problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/23MH1A05M1/problems/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/23MH1A05M1/problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/23MH1A05M1/problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/23MH1A05M1/problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/23MH1A05M1/problems/tree/master/0125-valid-palindrome) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/23MH1A05M1/problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/23MH1A05M1/problems/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23MH1A05M1/problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M1/problems/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/23MH1A05M1/problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/23MH1A05M1/problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/23MH1A05M1/problems/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/23MH1A05M1/problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Recursion
@@ -477,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/23MH1A05M1/problems/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/23MH1A05M1/problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
 |  |
