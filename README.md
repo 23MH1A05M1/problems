@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/23MH1A05M1/problems/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/23MH1A05M1/problems/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/23MH1A05M1/problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/23MH1A05M1/problems/tree/master/0706-design-hashmap) |
 | [0782-jewels-and-stones](https://github.com/23MH1A05M1/problems/tree/master/0782-jewels-and-stones) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/23MH1A05M1/problems/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/23MH1A05M1/problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/23MH1A05M1/problems/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/23MH1A05M1/problems/tree/master/0782-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23MH1A05M1/problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M1/problems/tree/master/1078-remove-outermost-parentheses) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/23MH1A05M1/problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/23MH1A05M1/problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/23MH1A05M1/problems/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/23MH1A05M1/problems/tree/master/0658-find-k-closest-elements) |
 | [0861-flipping-an-image](https://github.com/23MH1A05M1/problems/tree/master/0861-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0876-middle-of-the-linked-list) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/23MH1A05M1/problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/23MH1A05M1/problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/23MH1A05M1/problems/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/23MH1A05M1/problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/23MH1A05M1/problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/23MH1A05M1/problems/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/23MH1A05M1/problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
