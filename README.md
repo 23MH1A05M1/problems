@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/23MH1A05M1/problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/23MH1A05M1/problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/23MH1A05M1/problems/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/23MH1A05M1/problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23MH1A05M1/problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/23MH1A05M1/problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/23MH1A05M1/problems/tree/master/0189-rotate-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/23MH1A05M1/problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/23MH1A05M1/problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/23MH1A05M1/problems/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/23MH1A05M1/problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/23MH1A05M1/problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/23MH1A05M1/problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/23MH1A05M1/problems/tree/master/0258-add-digits) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/23MH1A05M1/problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/23MH1A05M1/problems/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/23MH1A05M1/problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/23MH1A05M1/problems/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23MH1A05M1/problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M1/problems/tree/master/1078-remove-outermost-parentheses) |
