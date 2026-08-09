@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/23MH1A05M1/problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/23MH1A05M1/problems/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/23MH1A05M1/problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/23MH1A05M1/problems/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/23MH1A05M1/problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/23MH1A05M1/problems/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23MH1A05M1/problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/23MH1A05M1/problems/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/23MH1A05M1/problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/23MH1A05M1/problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/23MH1A05M1/problems/tree/master/0705-design-hashset) |
