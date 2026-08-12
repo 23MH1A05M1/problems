@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/23MH1A05M1/problems/tree/master/2634-minimum-common-value) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/23MH1A05M1/problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/23MH1A05M1/problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/23MH1A05M1/problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/23MH1A05M1/problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/23MH1A05M1/problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/23MH1A05M1/problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/23MH1A05M1/problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/23MH1A05M1/problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/23MH1A05M1/problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/23MH1A05M1/problems/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/23MH1A05M1/problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/23MH1A05M1/problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/23MH1A05M1/problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Graph Theory
 |  |
 | ------- |
