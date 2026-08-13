@@ -18,7 +18,7 @@ class Solution {
             return nums[nums.length/2];
           }
           else{
-             ans = (nums[nums.length/2]+nums[(nums.length/2)-1])/2.0;
+             ans = (nums[(nums.length-1)/2]+nums[((nums.length-1)/2)+1])/2.0;
           }
           return ans;
     }
