@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/23MH1A05M1/problems/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/23MH1A05M1/problems/tree/master/0853-car-fleet) |
 | [0861-flipping-an-image](https://github.com/23MH1A05M1/problems/tree/master/0861-flipping-an-image) |
+| [0875-koko-eating-bananas](https://github.com/23MH1A05M1/problems/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/23MH1A05M1/problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/23MH1A05M1/problems/tree/master/0912-sort-an-array) |
 | [0941-sort-array-by-parity](https://github.com/23MH1A05M1/problems/tree/master/0941-sort-array-by-parity) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/23MH1A05M1/problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/23MH1A05M1/problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/23MH1A05M1/problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/23MH1A05M1/problems/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/23MH1A05M1/problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
