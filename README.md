@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/23MH1A05M1/problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/23MH1A05M1/problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/23MH1A05M1/problems/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/23MH1A05M1/problems/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/23MH1A05M1/problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/23MH1A05M1/problems/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/0434-number-of-segments-in-a-string) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/23MH1A05M1/problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/23MH1A05M1/problems/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/23MH1A05M1/problems/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/23MH1A05M1/problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/23MH1A05M1/problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/23MH1A05M1/problems/tree/master/0225-implement-stack-using-queues) |
