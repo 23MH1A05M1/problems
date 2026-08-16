@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/23MH1A05M1/problems/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/23MH1A05M1/problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/23MH1A05M1/problems/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/23MH1A05M1/problems/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/23MH1A05M1/problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/23MH1A05M1/problems/tree/master/0567-permutation-in-string) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/23MH1A05M1/problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/23MH1A05M1/problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/23MH1A05M1/problems/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/23MH1A05M1/problems/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/23MH1A05M1/problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/23MH1A05M1/problems/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/23MH1A05M1/problems/tree/master/0853-car-fleet) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/23MH1A05M1/problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/23MH1A05M1/problems/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/23MH1A05M1/problems/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
