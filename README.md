@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/23MH1A05M1/problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/23MH1A05M1/problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/23MH1A05M1/problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/23MH1A05M1/problems/tree/master/0066-plus-one) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/23MH1A05M1/problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/23MH1A05M1/problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/23MH1A05M1/problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0206-reverse-linked-list) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/23MH1A05M1/problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/23MH1A05M1/problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/23MH1A05M1/problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/23MH1A05M1/problems/tree/master/0206-reverse-linked-list) |
