@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/23MH1A05M1/problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/23MH1A05M1/problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/23MH1A05M1/problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/23MH1A05M1/problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/23MH1A05M1/problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/23MH1A05M1/problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/23MH1A05M1/problems/tree/master/2810-faulty-keyboard) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/23MH1A05M1/problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/23MH1A05M1/problems/tree/master/2886-faulty-keyboard) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/23MH1A05M1/problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-water-bottles-ii](https://github.com/23MH1A05M1/problems/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/23MH1A05M1/problems/tree/master/3447-clear-digits) |
 | [3925-concatenate-array-with-reverse](https://github.com/23MH1A05M1/problems/tree/master/3925-concatenate-array-with-reverse) |
