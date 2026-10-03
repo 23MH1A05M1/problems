@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/23MH1A05M1/problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/23MH1A05M1/problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/23MH1A05M1/problems/tree/master/2460-apply-operations-to-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/23MH1A05M1/problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/23MH1A05M1/problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/23MH1A05M1/problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/23MH1A05M1/problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/23MH1A05M1/problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/23MH1A05M1/problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/23MH1A05M1/problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/23MH1A05M1/problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2887-sort-vowels-in-a-string](https://github.com/23MH1A05M1/problems/tree/master/2887-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/23MH1A05M1/problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/23MH1A05M1/problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/23MH1A05M1/problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/23MH1A05M1/problems/tree/master/2460-apply-operations-to-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/23MH1A05M1/problems/tree/master/2470-removing-stars-from-a-string) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/23MH1A05M1/problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/23MH1A05M1/problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/23MH1A05M1/problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/23MH1A05M1/problems/tree/master/2810-faulty-keyboard) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/23MH1A05M1/problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/23MH1A05M1/problems/tree/master/1677-matrix-diagonal-sum) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/23MH1A05M1/problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3227-find-missing-and-repeated-values](https://github.com/23MH1A05M1/problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/23MH1A05M1/problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Two Pointers
@@ -637,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/23MH1A05M1/problems/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/23MH1A05M1/problems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/23MH1A05M1/problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/23MH1A05M1/problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
