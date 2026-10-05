@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/23MH1A05M1/problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/23MH1A05M1/problems/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/23MH1A05M1/problems/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/23MH1A05M1/problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M1/problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/23MH1A05M1/problems/tree/master/0643-maximum-average-subarray-i) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/23MH1A05M1/problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/23MH1A05M1/problems/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/23MH1A05M1/problems/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/23MH1A05M1/problems/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/23MH1A05M1/problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/23MH1A05M1/problems/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/23MH1A05M1/problems/tree/master/0853-car-fleet) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/23MH1A05M1/problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/23MH1A05M1/problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/23MH1A05M1/problems/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/23MH1A05M1/problems/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/23MH1A05M1/problems/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/23MH1A05M1/problems/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/23MH1A05M1/problems/tree/master/1046-last-stone-weight) |
