@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/23MH1A05M1/problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/23MH1A05M1/problems/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/23MH1A05M1/problems/tree/master/0782-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/23MH1A05M1/problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23MH1A05M1/problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M1/problems/tree/master/1078-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/23MH1A05M1/problems/tree/master/1189-maximum-number-of-balloons) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/23MH1A05M1/problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/23MH1A05M1/problems/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/23MH1A05M1/problems/tree/master/0853-car-fleet) |
+| [1021-remove-outermost-parentheses](https://github.com/23MH1A05M1/problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/23MH1A05M1/problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/23MH1A05M1/problems/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/23MH1A05M1/problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/23MH1A05M1/problems/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/23MH1A05M1/problems/tree/master/1021-remove-outermost-parentheses) |
 ## Interactive
 |  |
 | ------- |
